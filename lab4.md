@@ -31,6 +31,7 @@ better and more powerful system with the help all across the community
 Reference:  
 https://unix.stackexchange.com/questions/50460/does-android-break-gpl
 https://arstechnica.com/uncategorized/2007/11/why-google-chose-the-apache-software-license-over-gplv2/
+https://tldrlegal.com  
 # Table business model
 https://github.com/ziyangji/business-model  
 # license
