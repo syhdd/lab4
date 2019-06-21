@@ -23,7 +23,7 @@ Also, they did not follow the standard which means it will be harder and harder 
 First we know that GPL2.0 must disclose codes  
 However Apche allows code disclosure but it is not forced to do so  
 This means most of the part of the Android is using Apache and its core is licensed under GPL2.0  
-It is simplt because that Android which is developped by google is intended to be redevlopped into subsystems  
+It is simply because that Android which is developped by google is intended to be redevlopped by commercial companies  
 Those commercial companies can choose to develop their own enhanced features and to keep it as an asvantage  
 instead of sharing it with competitors  
 Thus Android system is more attrative to many companys for this needs in scarifice a chance to build a 
